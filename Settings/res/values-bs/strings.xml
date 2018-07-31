@@ -222,8 +222,8 @@
     <string name="wifi_ip_settings_invalid_dns" msgid="6172189835428184828">"Unesite važeću DNS adresu"</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length" msgid="6209978918929182270">"Unesite dužinu mrežnog prefiksa između 0 i 32"</string>
     <string name="wifi_ip_address_description" msgid="6548838784556001283">"Unesite važeću IP adresu.\nPrimjer: <xliff:g id="ID_1">192.168.1.128</xliff:g>"</string>
-    <string name="wifi_dns1_description" msgid="2463500547232077393">"Unesite važeću IP adresu ili ostavite prazno.\nPrimjer: <xliff:g id="ID_1">8.8.8.8</xliff:g>"</string>
-    <string name="wifi_dns2_description" msgid="8005473174044015359">"Unesite važeću IP adresu ili ostavite prazno.\nPrimjer: <xliff:g id="ID_1">8.8.4.4</xliff:g>"</string>
+    <string name="wifi_dns1_description" msgid="2463500547232077393">"Unesite važeću IP adresu ili ostavite prazno.\nPrimjer: <xliff:g id="ID_1">84.200.69.80</xliff:g>"</string>
+    <string name="wifi_dns2_description" msgid="8005473174044015359">"Unesite važeću IP adresu ili ostavite prazno.\nPrimjer: <xliff:g id="ID_1">84.200.70.40</xliff:g>"</string>
     <string name="wifi_gateway_description" msgid="4773751224452216231">"Unesite važeću IP adresu ili ostavite prazno.\nPrimjer: <xliff:g id="ID_1">192.168.1.1</xliff:g>"</string>
     <string name="wifi_network_prefix_length_description" msgid="4849589333293194414">"Unesite važeću dužinu prefiksa mreže.\nPrimjer: <xliff:g id="ID_1">24</xliff:g>"</string>
     <string name="proxy_error_invalid_host" msgid="3660415920668138953">"Ime hosta je nevažeće"</string>

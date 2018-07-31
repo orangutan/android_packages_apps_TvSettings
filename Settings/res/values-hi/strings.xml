@@ -221,8 +221,8 @@
     <string name="wifi_ip_settings_invalid_dns" msgid="6172189835428184828">"मान्य DNS पता डालें"</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length" msgid="6209978918929182270">"0 और 32 के बीच की लंबाई वाला नेटवर्क उपसर्ग डालें"</string>
     <string name="wifi_ip_address_description" msgid="6548838784556001283">"मान्य IP पता डालें.\nउदाहरण: <xliff:g id="ID_1">192.168.1.128</xliff:g>"</string>
-    <string name="wifi_dns1_description" msgid="2463500547232077393">"मान्य IP पता डालें या रिक्त छोड़ दें.\nउदाहरण: <xliff:g id="ID_1">8.8.8.8</xliff:g>"</string>
-    <string name="wifi_dns2_description" msgid="8005473174044015359">"मान्य IP पता डालें या रिक्त छोड़ दें.\nउदाहरण: <xliff:g id="ID_1">8.8.4.4</xliff:g>"</string>
+    <string name="wifi_dns1_description" msgid="2463500547232077393">"मान्य IP पता डालें या रिक्त छोड़ दें.\nउदाहरण: <xliff:g id="ID_1">84.200.69.80</xliff:g>"</string>
+    <string name="wifi_dns2_description" msgid="8005473174044015359">"मान्य IP पता डालें या रिक्त छोड़ दें.\nउदाहरण: <xliff:g id="ID_1">84.200.70.40</xliff:g>"</string>
     <string name="wifi_gateway_description" msgid="4773751224452216231">"मान्य IP पता डालें या रिक्त छोड़ दें.\nउदाहरण: <xliff:g id="ID_1">192.168.1.1</xliff:g>"</string>
     <string name="wifi_network_prefix_length_description" msgid="4849589333293194414">"मान्य लंबाई वाले नेटवर्क का प्रारंभिक भाग डालें.\nउदाहरण: <xliff:g id="ID_1">24</xliff:g>"</string>
     <string name="proxy_error_invalid_host" msgid="3660415920668138953">"होस्टनाम मान्य नहीं है"</string>

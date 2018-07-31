@@ -268,9 +268,9 @@
   <!-- Description text for the IP address -->
   <string name="wifi_ip_address_description">Rho gyfeiriad IP dilys.\nEnghraifft: <xliff:g>192.168.1.128</xliff:g></string>
   <!-- Description text for DNS -->
-  <string name="wifi_dns1_description">Rho gyfeiriad IP dilys neu ei adael yn wag.\nEnghraifft: <xliff:g>8.8.8.8</xliff:g></string>
+  <string name="wifi_dns1_description">Rho gyfeiriad IP dilys neu ei adael yn wag.\nEnghraifft: <xliff:g>84.200.69.80</xliff:g></string>
   <!-- Description text for DNS -->
-  <string name="wifi_dns2_description">Rho gyfeiriad IP dilys neu ei adael yn wag.\nEnghraifft: <xliff:g>8.8.4.4</xliff:g></string>
+  <string name="wifi_dns2_description">Rho gyfeiriad IP dilys neu ei adael yn wag.\nEnghraifft: <xliff:g>84.200.70.40</xliff:g></string>
   <!-- Description text for the gateway -->
   <string name="wifi_gateway_description">Rho gyfeiriad IP dilys neu ei adael yn wag.\nEnghraifft: <xliff:g>192.168.1.1</xliff:g></string>
   <!-- Description text for network prefix length -->
